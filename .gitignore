@@ -1,0 +1,8 @@
+*~
+\#*
+argsgdb
+*.o
+*.sh
+*.bin
+*.elf
+build/
